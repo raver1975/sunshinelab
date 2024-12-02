@@ -21,7 +21,7 @@ allprojects {
     version = '1.0'
     ext {
         appName = "Sunshine Blue"
-        gdxVersion = '1.10.0'
+        gdxVersion = '1.11.0'
 //        gdxVersion = '1.10.1-SNAPSHOT'
 //        gdxVersion = '1.9.14'
         roboVMVersion = '2.3.15'
