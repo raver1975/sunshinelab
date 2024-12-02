@@ -54,7 +54,7 @@ project(":html") {
         implementation project(":core")
 //        implementation "space.earlygrey:shapedrawer:$shapedrawerVersion:sources"
 
-        implementation 'com.github.earlygrey:shapedrawer:v2.5.0:sources'
+        implementation 'com.github.earlygrey:shapedrawer:2.6.0:sources'
         api "com.badlogicgames.gdx:gdx-backend-gwt:$gdxVersion"
         api "com.badlogicgames.gdx:gdx:$gdxVersion:sources"
         api "com.badlogicgames.gdx:gdx-backend-gwt:$gdxVersion:sources"
